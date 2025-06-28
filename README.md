@@ -2,7 +2,9 @@
 
 📢 提供最新苹果美区 Apple ID 账号共享，支持下载 Shadowrocket（小火箭）、Quantumult X、Stash、圈X 等工具。每日更新可用账号，适合需要科学上网工具的小伙伴。
 
- 购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.top/)
+[【小火箭共享账号每日更新】](https://docs.applexp.com/free-accounts/Shadowrocket)
+
+购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.top/)
 
 购买共享账号地址：[【 点击进入购买】](https://juzixp.top/buy/21))
 
@@ -23,4 +25,4 @@
 
 #### 🔗 快速访问资源：
 
-[📌 免费共享账号与节点合集地址：点击查看](https://github.com/MuYan09/AppleID-Tutorial)
+[📌 免费共享账号与节点合集地址：点击查看](https://docs.applexp.com/free-accounts)
